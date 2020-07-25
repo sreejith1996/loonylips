@@ -1,0 +1,18 @@
+[
+		{
+		"prompts" : ["noun","adjective","verb","adverb"],
+		"story" : "Once %s saw %s and thought that it was the %s TV show ever, isn't sreejith %s"
+		},
+		{
+		"prompts" : ["name","TV Show", "adjective", "an awesome word"],
+		"story" : "Once %s saw %s and thought that it was the %s TV show ever, isn't sreejith %s"
+		},
+		{
+		"prompts" : ["name","TV Show", "adjective", "an awesome word"],
+		"story" : "Atra %s Batra %s bolta %s hai bantai %s"
+		},
+		{
+		"prompts" : ["name","TV Show", "adjective", "an awesome word"],
+		"story" : "Kyu hai yeh %s, Kya hai ye %s, sabka malik %s, ande ka %s"
+		}
+]
